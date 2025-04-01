@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/ft_printfe.png" alt="libft 42 project badge"/>
+  <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/ft_printfe.png" alt="ft_printf 42 project badge"/>
 <p align="center">
 <p align="center">
   <strong>100/100</strong> ✅
