@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/ft_printfe.png" alt="ft_printf 42 project badge"/>
 <p align="center">
-<p align="center">
-  <strong>100/100</strong> ✅
-</p>
+$${\color{lightgreen}100/100}$$ ✅
 
 ## Description
 `ft_printf` is a recreation of printf() from the C standard library (libc), handling variable arguments (va_arg) with support for conversions (e.g., %d, %s, %x), flags, and formatting.
